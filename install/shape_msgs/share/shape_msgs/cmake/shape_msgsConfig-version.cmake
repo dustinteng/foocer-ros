@@ -1,0 +1,1 @@
+/home/teng/ros2_ws/build/shape_msgs/ament_cmake_core/shape_msgsConfig-version.cmake

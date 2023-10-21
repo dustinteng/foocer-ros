@@ -1,0 +1,4 @@
+float64 x_data
+float64 y_data
+bool are_motors_ready
+string debug_message

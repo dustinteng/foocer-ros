@@ -1,0 +1,15 @@
+/home/teng/ros2_ws/install/common_interfaces/share/ament_index/resource_index/package_run_dependencies/common_interfaces
+/home/teng/ros2_ws/install/common_interfaces/share/ament_index/resource_index/parent_prefix_path/common_interfaces
+/home/teng/ros2_ws/install/common_interfaces/share/common_interfaces/environment/ament_prefix_path.sh
+/home/teng/ros2_ws/install/common_interfaces/share/common_interfaces/environment/ament_prefix_path.dsv
+/home/teng/ros2_ws/install/common_interfaces/share/common_interfaces/environment/path.sh
+/home/teng/ros2_ws/install/common_interfaces/share/common_interfaces/environment/path.dsv
+/home/teng/ros2_ws/install/common_interfaces/share/common_interfaces/local_setup.bash
+/home/teng/ros2_ws/install/common_interfaces/share/common_interfaces/local_setup.sh
+/home/teng/ros2_ws/install/common_interfaces/share/common_interfaces/local_setup.zsh
+/home/teng/ros2_ws/install/common_interfaces/share/common_interfaces/local_setup.dsv
+/home/teng/ros2_ws/install/common_interfaces/share/common_interfaces/package.dsv
+/home/teng/ros2_ws/install/common_interfaces/share/ament_index/resource_index/packages/common_interfaces
+/home/teng/ros2_ws/install/common_interfaces/share/common_interfaces/cmake/common_interfacesConfig.cmake
+/home/teng/ros2_ws/install/common_interfaces/share/common_interfaces/cmake/common_interfacesConfig-version.cmake
+/home/teng/ros2_ws/install/common_interfaces/share/common_interfaces/package.xml

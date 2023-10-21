@@ -1,0 +1,1 @@
+/home/teng/ros2_ws/build/trajectory_msgs/rosidl_generator_c/trajectory_msgs/msg/detail/joint_trajectory__type_support.h

@@ -1,0 +1,33 @@
+[11.553s] Invoking command in '/home/teng/ros2_ws/build/experiment1': CMAKE_PREFIX_PATH=/home/teng/ros2_ws/install/simple_interfaces:/home/teng/ros2_ws/install/common_interfaces:/home/teng/ros2_ws/install/visualization_msgs:/home/teng/ros2_ws/install/trajectory_msgs:/home/teng/ros2_ws/install/stereo_msgs:/home/teng/ros2_ws/install/std_srvs:/home/teng/ros2_ws/install/shape_msgs:/home/teng/ros2_ws/install/sensor_msgs:/home/teng/ros2_ws/install/nav_msgs:/home/teng/ros2_ws/install/diagnostic_msgs:/home/teng/ros2_ws/install/geometry_msgs:/home/teng/ros2_ws/install/actionlib_msgs:/home/teng/ros2_ws/install/std_msgs:/home/teng/ros2_ws/install/exp_1_bringup LD_LIBRARY_PATH=/home/teng/ros2_ws/install/simple_interfaces/lib:/home/teng/ros2_ws/install/visualization_msgs/lib:/home/teng/ros2_ws/install/trajectory_msgs/lib:/home/teng/ros2_ws/install/stereo_msgs/lib:/home/teng/ros2_ws/install/std_srvs/lib:/home/teng/ros2_ws/install/shape_msgs/lib:/home/teng/ros2_ws/install/sensor_msgs/lib:/home/teng/ros2_ws/install/nav_msgs/lib:/home/teng/ros2_ws/install/diagnostic_msgs/lib:/home/teng/ros2_ws/install/geometry_msgs/lib:/home/teng/ros2_ws/install/actionlib_msgs/lib:/home/teng/ros2_ws/install/std_msgs/lib:/opt/ros/humble/lib/aarch64-linux-gnu:/opt/ros/humble/lib PYTHONPATH=/home/teng/ros2_ws/build/experiment1/prefix_override:/home/teng/ros2_ws/install/experiment1/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/teng/ros2_ws/build/experiment1/build --no-deps install_data
+[16.706s] running develop
+[21.069s] running egg_info
+[21.087s] creating experiment1.egg-info
+[21.090s] writing experiment1.egg-info/PKG-INFO
+[21.095s] writing dependency_links to experiment1.egg-info/dependency_links.txt
+[21.108s] writing entry points to experiment1.egg-info/entry_points.txt
+[21.112s] writing requirements to experiment1.egg-info/requires.txt
+[21.113s] writing top-level names to experiment1.egg-info/top_level.txt
+[21.114s] writing manifest file 'experiment1.egg-info/SOURCES.txt'
+[21.156s] reading manifest file 'experiment1.egg-info/SOURCES.txt'
+[21.172s] writing manifest file 'experiment1.egg-info/SOURCES.txt'
+[21.195s] running build_ext
+[21.196s] Creating /home/teng/ros2_ws/install/experiment1/lib/python3.10/site-packages/experiment1.egg-link (link to .)
+[21.223s] Installing battery script to /home/teng/ros2_ws/install/experiment1/lib/experiment1
+[21.234s] Installing button_listener script to /home/teng/ros2_ws/install/experiment1/lib/experiment1
+[21.238s] Installing hw_status_publisher script to /home/teng/ros2_ws/install/experiment1/lib/experiment1
+[21.242s] Installing joystick_listener script to /home/teng/ros2_ws/install/experiment1/lib/experiment1
+[21.254s] Installing joystick_listener2 script to /home/teng/ros2_ws/install/experiment1/lib/experiment1
+[21.261s] Installing joystick_panel script to /home/teng/ros2_ws/install/experiment1/lib/experiment1
+[21.274s] Installing joystick_publisher script to /home/teng/ros2_ws/install/experiment1/lib/experiment1
+[21.281s] Installing led_control_node script to /home/teng/ros2_ws/install/experiment1/lib/experiment1
+[21.284s] Installing led_panel script to /home/teng/ros2_ws/install/experiment1/lib/experiment1
+[21.291s] Installing run_node script to /home/teng/ros2_ws/install/experiment1/lib/experiment1
+[21.309s] 
+[21.311s] Installed /home/teng/ros2_ws/build/experiment1
+[21.313s] running install_data
+[21.319s] creating /home/teng/ros2_ws/install/experiment1/share/ament_index
+[21.322s] creating /home/teng/ros2_ws/install/experiment1/share/ament_index/resource_index
+[21.330s] creating /home/teng/ros2_ws/install/experiment1/share/ament_index/resource_index/packages
+[21.333s] copying resource/experiment1 -> /home/teng/ros2_ws/install/experiment1/share/ament_index/resource_index/packages
+[21.337s] copying package.xml -> /home/teng/ros2_ws/install/experiment1/share/experiment1
+[21.951s] Invoked command in '/home/teng/ros2_ws/build/experiment1' returned '0': CMAKE_PREFIX_PATH=/home/teng/ros2_ws/install/simple_interfaces:/home/teng/ros2_ws/install/common_interfaces:/home/teng/ros2_ws/install/visualization_msgs:/home/teng/ros2_ws/install/trajectory_msgs:/home/teng/ros2_ws/install/stereo_msgs:/home/teng/ros2_ws/install/std_srvs:/home/teng/ros2_ws/install/shape_msgs:/home/teng/ros2_ws/install/sensor_msgs:/home/teng/ros2_ws/install/nav_msgs:/home/teng/ros2_ws/install/diagnostic_msgs:/home/teng/ros2_ws/install/geometry_msgs:/home/teng/ros2_ws/install/actionlib_msgs:/home/teng/ros2_ws/install/std_msgs:/home/teng/ros2_ws/install/exp_1_bringup LD_LIBRARY_PATH=/home/teng/ros2_ws/install/simple_interfaces/lib:/home/teng/ros2_ws/install/visualization_msgs/lib:/home/teng/ros2_ws/install/trajectory_msgs/lib:/home/teng/ros2_ws/install/stereo_msgs/lib:/home/teng/ros2_ws/install/std_srvs/lib:/home/teng/ros2_ws/install/shape_msgs/lib:/home/teng/ros2_ws/install/sensor_msgs/lib:/home/teng/ros2_ws/install/nav_msgs/lib:/home/teng/ros2_ws/install/diagnostic_msgs/lib:/home/teng/ros2_ws/install/geometry_msgs/lib:/home/teng/ros2_ws/install/actionlib_msgs/lib:/home/teng/ros2_ws/install/std_msgs/lib:/opt/ros/humble/lib/aarch64-linux-gnu:/opt/ros/humble/lib PYTHONPATH=/home/teng/ros2_ws/build/experiment1/prefix_override:/home/teng/ros2_ws/install/experiment1/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/teng/ros2_ws/build/experiment1/build --no-deps install_data

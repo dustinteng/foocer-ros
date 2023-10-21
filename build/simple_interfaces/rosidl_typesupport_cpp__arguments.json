@@ -1,0 +1,29 @@
+{
+  "package_name": "simple_interfaces",
+  "output_dir": "/home/teng/ros2_ws/build/simple_interfaces/rosidl_typesupport_cpp/simple_interfaces",
+  "template_dir": "/opt/ros/humble/share/rosidl_typesupport_cpp/resource",
+  "idl_tuples": [
+    "/home/teng/ros2_ws/build/simple_interfaces/rosidl_adapter/simple_interfaces:msg/HardwareStatus.idl",
+    "/home/teng/ros2_ws/build/simple_interfaces/rosidl_adapter/simple_interfaces:msg/LedStateArray.idl",
+    "/home/teng/ros2_ws/build/simple_interfaces/rosidl_adapter/simple_interfaces:msg/ButtonState.idl",
+    "/home/teng/ros2_ws/build/simple_interfaces/rosidl_adapter/simple_interfaces:msg/JoystickScalarValue.idl",
+    "/home/teng/ros2_ws/build/simple_interfaces/rosidl_adapter/simple_interfaces:srv/ExService.idl",
+    "/home/teng/ros2_ws/build/simple_interfaces/rosidl_adapter/simple_interfaces:srv/SetLed.idl",
+    "/home/teng/ros2_ws/build/simple_interfaces/rosidl_adapter/simple_interfaces:srv/SetJoystickScalar.idl"
+  ],
+  "target_dependencies": [
+    "/opt/ros/humble/lib/rosidl_typesupport_cpp/rosidl_typesupport_cpp",
+    "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_typesupport_cpp/__init__.py",
+    "/opt/ros/humble/share/rosidl_typesupport_cpp/resource/action__type_support.cpp.em",
+    "/opt/ros/humble/share/rosidl_typesupport_cpp/resource/idl__type_support.cpp.em",
+    "/opt/ros/humble/share/rosidl_typesupport_cpp/resource/msg__type_support.cpp.em",
+    "/opt/ros/humble/share/rosidl_typesupport_cpp/resource/srv__type_support.cpp.em",
+    "/home/teng/ros2_ws/build/simple_interfaces/rosidl_adapter/simple_interfaces/msg/HardwareStatus.idl",
+    "/home/teng/ros2_ws/build/simple_interfaces/rosidl_adapter/simple_interfaces/msg/LedStateArray.idl",
+    "/home/teng/ros2_ws/build/simple_interfaces/rosidl_adapter/simple_interfaces/msg/ButtonState.idl",
+    "/home/teng/ros2_ws/build/simple_interfaces/rosidl_adapter/simple_interfaces/msg/JoystickScalarValue.idl",
+    "/home/teng/ros2_ws/build/simple_interfaces/rosidl_adapter/simple_interfaces/srv/ExService.idl",
+    "/home/teng/ros2_ws/build/simple_interfaces/rosidl_adapter/simple_interfaces/srv/SetLed.idl",
+    "/home/teng/ros2_ws/build/simple_interfaces/rosidl_adapter/simple_interfaces/srv/SetJoystickScalar.idl"
+  ]
+}

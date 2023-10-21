@@ -1,0 +1,14 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from simple_interfaces/msg/ButtonState.msg
+// generated code does not contain a copyright notice
+
+
+module simple_interfaces {
+  module msg {
+    struct ButtonState {
+      string name;
+
+      int64 level;
+    };
+  };
+};

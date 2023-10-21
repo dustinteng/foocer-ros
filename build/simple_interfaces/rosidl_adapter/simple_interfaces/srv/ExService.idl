@@ -1,0 +1,17 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from simple_interfaces/srv/ExService.srv
+// generated code does not contain a copyright notice
+
+
+module simple_interfaces {
+  module srv {
+    struct ExService_Request {
+      double length;
+
+      double width;
+    };
+    struct ExService_Response {
+      double are_motors_ready;
+    };
+  };
+};

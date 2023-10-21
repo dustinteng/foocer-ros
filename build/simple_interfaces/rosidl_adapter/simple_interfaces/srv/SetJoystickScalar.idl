@@ -1,0 +1,17 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from simple_interfaces/srv/SetJoystickScalar.srv
+// generated code does not contain a copyright notice
+
+
+module simple_interfaces {
+  module srv {
+    struct SetJoystickScalar_Request {
+      string joystick_name;
+
+      double magnitude;
+    };
+    struct SetJoystickScalar_Response {
+      boolean success;
+    };
+  };
+};

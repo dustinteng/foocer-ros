@@ -1,0 +1,309 @@
+[0.869s] Invoking command in '/home/teng/ros2_ws/build/diagnostic_msgs': CMAKE_PREFIX_PATH=/home/teng/ros2_ws/install/geometry_msgs:/home/teng/ros2_ws/install/std_msgs:/home/teng/ros2_ws/install/common_interfaces:/home/teng/ros2_ws/install/visualization_msgs:/home/teng/ros2_ws/install/trajectory_msgs:/home/teng/ros2_ws/install/stereo_msgs:/home/teng/ros2_ws/install/std_srvs:/home/teng/ros2_ws/install/shape_msgs:/home/teng/ros2_ws/install/sensor_msgs:/home/teng/ros2_ws/install/nav_msgs:/home/teng/ros2_ws/install/diagnostic_msgs:/home/teng/ros2_ws/install/actionlib_msgs:/home/teng/ros2_ws/install/exp_1_bringup:/home/teng/ros2_ws/install/simple_interfaces:/home/teng/ros2_ws/install/sensor_msgs_py:/home/teng/ros2_ws/install/experiment1:/opt/ros/humble LD_LIBRARY_PATH=/home/teng/ros2_ws/install/geometry_msgs/lib:/home/teng/ros2_ws/install/std_msgs/lib:/home/teng/ros2_ws/install/visualization_msgs/lib:/home/teng/ros2_ws/install/trajectory_msgs/lib:/home/teng/ros2_ws/install/stereo_msgs/lib:/home/teng/ros2_ws/install/std_srvs/lib:/home/teng/ros2_ws/install/shape_msgs/lib:/home/teng/ros2_ws/install/sensor_msgs/lib:/home/teng/ros2_ws/install/nav_msgs/lib:/home/teng/ros2_ws/install/diagnostic_msgs/lib:/home/teng/ros2_ws/install/actionlib_msgs/lib:/home/teng/ros2_ws/install/simple_interfaces/lib:/opt/ros/humble/lib/aarch64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake /home/teng/ros2_ws/src/ros2_common_interfaces/diagnostic_msgs -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/teng/ros2_ws/install/diagnostic_msgs
+[1.261s] -- The C compiler identification is GNU 11.4.0
+[1.832s] -- The CXX compiler identification is GNU 11.4.0
+[1.950s] -- Detecting C compiler ABI info
+[2.593s] -- Detecting C compiler ABI info - done
+[2.629s] -- Check for working C compiler: /usr/bin/cc - skipped
+[2.632s] -- Detecting C compile features
+[2.636s] -- Detecting C compile features - done
+[2.697s] -- Detecting CXX compiler ABI info
+[3.513s] -- Detecting CXX compiler ABI info - done
+[3.612s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[3.615s] -- Detecting CXX compile features
+[3.622s] -- Detecting CXX compile features - done
+[3.683s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[5.367s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[5.979s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[6.417s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[6.505s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[6.581s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[7.014s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[7.275s] -- Found std_msgs: 5.2.0 (/home/teng/ros2_ws/install/std_msgs/share/std_msgs/cmake)
+[10.133s] -- Found ament_cmake_cppcheck: 0.12.8 (/opt/ros/humble/share/ament_cmake_cppcheck/cmake)
+[10.177s] -- Found ament_cmake_cpplint: 0.12.8 (/opt/ros/humble/share/ament_cmake_cpplint/cmake)
+[10.207s] -- Found ament_cmake_uncrustify: 0.12.8 (/opt/ros/humble/share/ament_cmake_uncrustify/cmake)
+[10.240s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[12.316s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[14.969s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[15.146s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.10.12", minimum required is "3.6") 
+[15.180s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[15.394s] -- Found PythonLibs: /usr/lib/aarch64-linux-gnu/libpython3.10.so (found suitable version "3.10.12", minimum required is "3.5") 
+[15.395s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[15.396s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[15.396s] -- Using PYTHON_LIBRARIES: /usr/lib/aarch64-linux-gnu/libpython3.10.so
+[15.585s] -- Found PythonExtra: .so  
+[15.967s] -- Found ament_cmake_flake8: 0.12.8 (/opt/ros/humble/share/ament_cmake_flake8/cmake)
+[16.001s] -- Found ament_cmake_pep257: 0.12.8 (/opt/ros/humble/share/ament_cmake_pep257/cmake)
+[16.126s] -- Configuring done
+[16.504s] -- Generating done
+[16.522s] -- Build files have been written to: /home/teng/ros2_ws/build/diagnostic_msgs
+[16.559s] Invoked command in '/home/teng/ros2_ws/build/diagnostic_msgs' returned '0': CMAKE_PREFIX_PATH=/home/teng/ros2_ws/install/geometry_msgs:/home/teng/ros2_ws/install/std_msgs:/home/teng/ros2_ws/install/common_interfaces:/home/teng/ros2_ws/install/visualization_msgs:/home/teng/ros2_ws/install/trajectory_msgs:/home/teng/ros2_ws/install/stereo_msgs:/home/teng/ros2_ws/install/std_srvs:/home/teng/ros2_ws/install/shape_msgs:/home/teng/ros2_ws/install/sensor_msgs:/home/teng/ros2_ws/install/nav_msgs:/home/teng/ros2_ws/install/diagnostic_msgs:/home/teng/ros2_ws/install/actionlib_msgs:/home/teng/ros2_ws/install/exp_1_bringup:/home/teng/ros2_ws/install/simple_interfaces:/home/teng/ros2_ws/install/sensor_msgs_py:/home/teng/ros2_ws/install/experiment1:/opt/ros/humble LD_LIBRARY_PATH=/home/teng/ros2_ws/install/geometry_msgs/lib:/home/teng/ros2_ws/install/std_msgs/lib:/home/teng/ros2_ws/install/visualization_msgs/lib:/home/teng/ros2_ws/install/trajectory_msgs/lib:/home/teng/ros2_ws/install/stereo_msgs/lib:/home/teng/ros2_ws/install/std_srvs/lib:/home/teng/ros2_ws/install/shape_msgs/lib:/home/teng/ros2_ws/install/sensor_msgs/lib:/home/teng/ros2_ws/install/nav_msgs/lib:/home/teng/ros2_ws/install/diagnostic_msgs/lib:/home/teng/ros2_ws/install/actionlib_msgs/lib:/home/teng/ros2_ws/install/simple_interfaces/lib:/opt/ros/humble/lib/aarch64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake /home/teng/ros2_ws/src/ros2_common_interfaces/diagnostic_msgs -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/teng/ros2_ws/install/diagnostic_msgs
+[16.561s] Invoking command in '/home/teng/ros2_ws/build/diagnostic_msgs': CMAKE_PREFIX_PATH=/home/teng/ros2_ws/install/geometry_msgs:/home/teng/ros2_ws/install/std_msgs:/home/teng/ros2_ws/install/common_interfaces:/home/teng/ros2_ws/install/visualization_msgs:/home/teng/ros2_ws/install/trajectory_msgs:/home/teng/ros2_ws/install/stereo_msgs:/home/teng/ros2_ws/install/std_srvs:/home/teng/ros2_ws/install/shape_msgs:/home/teng/ros2_ws/install/sensor_msgs:/home/teng/ros2_ws/install/nav_msgs:/home/teng/ros2_ws/install/diagnostic_msgs:/home/teng/ros2_ws/install/actionlib_msgs:/home/teng/ros2_ws/install/exp_1_bringup:/home/teng/ros2_ws/install/simple_interfaces:/home/teng/ros2_ws/install/sensor_msgs_py:/home/teng/ros2_ws/install/experiment1:/opt/ros/humble LD_LIBRARY_PATH=/home/teng/ros2_ws/install/geometry_msgs/lib:/home/teng/ros2_ws/install/std_msgs/lib:/home/teng/ros2_ws/install/visualization_msgs/lib:/home/teng/ros2_ws/install/trajectory_msgs/lib:/home/teng/ros2_ws/install/stereo_msgs/lib:/home/teng/ros2_ws/install/std_srvs/lib:/home/teng/ros2_ws/install/shape_msgs/lib:/home/teng/ros2_ws/install/sensor_msgs/lib:/home/teng/ros2_ws/install/nav_msgs/lib:/home/teng/ros2_ws/install/diagnostic_msgs/lib:/home/teng/ros2_ws/install/actionlib_msgs/lib:/home/teng/ros2_ws/install/simple_interfaces/lib:/opt/ros/humble/lib/aarch64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --build /home/teng/ros2_ws/build/diagnostic_msgs -- -j4 -l4
+[17.219s] [  1%] [34m[1mGenerating C code for ROS interfaces[0m
+[17.257s] [  3%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[17.496s] [  3%] Built target ament_cmake_python_symlink_diagnostic_msgs
+[20.290s] running egg_info
+[20.295s] creating diagnostic_msgs.egg-info
+[20.297s] writing diagnostic_msgs.egg-info/PKG-INFO
+[20.298s] writing dependency_links to diagnostic_msgs.egg-info/dependency_links.txt
+[20.299s] writing top-level names to diagnostic_msgs.egg-info/top_level.txt
+[20.301s] writing manifest file 'diagnostic_msgs.egg-info/SOURCES.txt'
+[20.362s] reading manifest file 'diagnostic_msgs.egg-info/SOURCES.txt'
+[20.365s] writing manifest file 'diagnostic_msgs.egg-info/SOURCES.txt'
+[21.192s] [  3%] Built target ament_cmake_python_build_diagnostic_msgs_egg
+[29.140s] [  4%] [32mBuilding C object CMakeFiles/diagnostic_msgs__rosidl_generator_c.dir/rosidl_generator_c/diagnostic_msgs/msg/detail/diagnostic_array__functions.c.o[0m
+[29.336s] [  4%] Built target diagnostic_msgs__cpp
+[29.782s] [  6%] [32mBuilding C object CMakeFiles/diagnostic_msgs__rosidl_generator_c.dir/rosidl_generator_c/diagnostic_msgs/msg/detail/key_value__functions.c.o[0m
+[30.241s] [  7%] [32mBuilding C object CMakeFiles/diagnostic_msgs__rosidl_generator_c.dir/rosidl_generator_c/diagnostic_msgs/msg/detail/diagnostic_status__functions.c.o[0m
+[31.387s] [  9%] [32mBuilding C object CMakeFiles/diagnostic_msgs__rosidl_generator_c.dir/rosidl_generator_c/diagnostic_msgs/srv/detail/add_diagnostics__functions.c.o[0m
+[32.434s] [ 11%] [32mBuilding C object CMakeFiles/diagnostic_msgs__rosidl_generator_c.dir/rosidl_generator_c/diagnostic_msgs/srv/detail/self_test__functions.c.o[0m
+[33.514s] [ 12%] [32m[1mLinking C shared library libdiagnostic_msgs__rosidl_generator_c.so[0m
+[33.921s] [ 12%] Built target diagnostic_msgs__rosidl_generator_c
+[34.021s] [ 14%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[40.212s] [ 15%] [32mBuilding CXX object CMakeFiles/diagnostic_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/diagnostic_msgs/msg/detail/diagnostic_array__type_support.cpp.o[0m
+[44.767s] [ 17%] [32mBuilding CXX object CMakeFiles/diagnostic_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/diagnostic_msgs/msg/detail/diagnostic_status__type_support.cpp.o[0m
+[48.712s] [ 19%] [32mBuilding CXX object CMakeFiles/diagnostic_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/diagnostic_msgs/msg/detail/key_value__type_support.cpp.o[0m
+[51.959s] [ 20%] [32mBuilding CXX object CMakeFiles/diagnostic_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/diagnostic_msgs/srv/detail/add_diagnostics__type_support.cpp.o[0m
+[55.665s] [ 22%] [32mBuilding CXX object CMakeFiles/diagnostic_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/diagnostic_msgs/srv/detail/self_test__type_support.cpp.o[0m
+[60.482s] [ 23%] [32m[1mLinking CXX shared library libdiagnostic_msgs__rosidl_typesupport_introspection_cpp.so[0m
+[61.075s] [ 23%] Built target diagnostic_msgs__rosidl_typesupport_introspection_cpp
+[61.222s] [ 25%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[67.195s] [ 26%] [32mBuilding CXX object CMakeFiles/diagnostic_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/diagnostic_msgs/msg/detail/diagnostic_array__type_support_c.cpp.o[0m
+[70.041s] [ 28%] [32mBuilding CXX object CMakeFiles/diagnostic_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/diagnostic_msgs/msg/detail/diagnostic_status__type_support_c.cpp.o[0m
+[73.743s] [ 30%] [32mBuilding CXX object CMakeFiles/diagnostic_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/diagnostic_msgs/msg/detail/key_value__type_support_c.cpp.o[0m
+[77.992s] [ 31%] [32mBuilding CXX object CMakeFiles/diagnostic_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/diagnostic_msgs/srv/detail/add_diagnostics__type_support_c.cpp.o[0m
+[81.232s] [ 33%] [32mBuilding CXX object CMakeFiles/diagnostic_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/diagnostic_msgs/srv/detail/self_test__type_support_c.cpp.o[0m
+[84.001s] [ 34%] [32m[1mLinking CXX shared library libdiagnostic_msgs__rosidl_typesupport_fastrtps_c.so[0m
+[84.561s] [ 34%] Built target diagnostic_msgs__rosidl_typesupport_fastrtps_c
+[84.640s] [ 36%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[89.862s] [ 38%] [32mBuilding C object CMakeFiles/diagnostic_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/diagnostic_msgs/msg/detail/diagnostic_array__type_support.c.o[0m
+[90.199s] [ 39%] [32mBuilding C object CMakeFiles/diagnostic_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/diagnostic_msgs/msg/detail/diagnostic_status__type_support.c.o[0m
+[90.528s] [ 41%] [32mBuilding C object CMakeFiles/diagnostic_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/diagnostic_msgs/msg/detail/key_value__type_support.c.o[0m
+[90.782s] [ 42%] [32mBuilding C object CMakeFiles/diagnostic_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/diagnostic_msgs/srv/detail/add_diagnostics__type_support.c.o[0m
+[91.105s] [ 44%] [32mBuilding C object CMakeFiles/diagnostic_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/diagnostic_msgs/srv/detail/self_test__type_support.c.o[0m
+[91.427s] [ 46%] [32m[1mLinking C shared library libdiagnostic_msgs__rosidl_typesupport_introspection_c.so[0m
+[91.777s] [ 46%] Built target diagnostic_msgs__rosidl_typesupport_introspection_c
+[91.867s] [ 47%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[95.936s] [ 49%] [32mBuilding CXX object CMakeFiles/diagnostic_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/diagnostic_msgs/msg/diagnostic_array__type_support.cpp.o[0m
+[96.469s] [ 50%] [32mBuilding CXX object CMakeFiles/diagnostic_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/diagnostic_msgs/msg/diagnostic_status__type_support.cpp.o[0m
+[96.979s] [ 52%] [32mBuilding CXX object CMakeFiles/diagnostic_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/diagnostic_msgs/msg/key_value__type_support.cpp.o[0m
+[97.267s] [ 53%] [32mBuilding CXX object CMakeFiles/diagnostic_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/diagnostic_msgs/srv/add_diagnostics__type_support.cpp.o[0m
+[97.621s] [ 55%] [32mBuilding CXX object CMakeFiles/diagnostic_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/diagnostic_msgs/srv/self_test__type_support.cpp.o[0m
+[98.004s] [ 57%] [32m[1mLinking CXX shared library libdiagnostic_msgs__rosidl_typesupport_c.so[0m
+[98.353s] [ 57%] Built target diagnostic_msgs__rosidl_typesupport_c
+[98.455s] [ 58%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[103.748s] [ 60%] [32mBuilding CXX object CMakeFiles/diagnostic_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/diagnostic_msgs/msg/detail/dds_fastrtps/diagnostic_array__type_support.cpp.o[0m
+[107.735s] [ 61%] [32mBuilding CXX object CMakeFiles/diagnostic_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/diagnostic_msgs/msg/detail/dds_fastrtps/key_value__type_support.cpp.o[0m
+[111.659s] [ 63%] [32mBuilding CXX object CMakeFiles/diagnostic_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/diagnostic_msgs/srv/detail/dds_fastrtps/add_diagnostics__type_support.cpp.o[0m
+[114.948s] [ 65%] [32mBuilding CXX object CMakeFiles/diagnostic_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/diagnostic_msgs/srv/detail/dds_fastrtps/self_test__type_support.cpp.o[0m
+[118.624s] [ 66%] [32mBuilding CXX object CMakeFiles/diagnostic_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/diagnostic_msgs/msg/detail/dds_fastrtps/diagnostic_status__type_support.cpp.o[0m
+[121.664s] [ 68%] [32m[1mLinking CXX shared library libdiagnostic_msgs__rosidl_typesupport_fastrtps_cpp.so[0m
+[122.276s] [ 68%] Built target diagnostic_msgs__rosidl_typesupport_fastrtps_cpp
+[122.353s] [ 69%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[125.917s] [ 71%] [32mBuilding CXX object CMakeFiles/diagnostic_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/diagnostic_msgs/msg/diagnostic_array__type_support.cpp.o[0m
+[127.703s] [ 73%] [32mBuilding CXX object CMakeFiles/diagnostic_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/diagnostic_msgs/srv/add_diagnostics__type_support.cpp.o[0m
+[129.703s] [ 74%] [32mBuilding CXX object CMakeFiles/diagnostic_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/diagnostic_msgs/srv/self_test__type_support.cpp.o[0m
+[131.890s] [ 76%] [32mBuilding CXX object CMakeFiles/diagnostic_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/diagnostic_msgs/msg/key_value__type_support.cpp.o[0m
+[133.743s] [ 77%] [32mBuilding CXX object CMakeFiles/diagnostic_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/diagnostic_msgs/msg/diagnostic_status__type_support.cpp.o[0m
+[135.705s] [ 79%] [32m[1mLinking CXX shared library libdiagnostic_msgs__rosidl_typesupport_cpp.so[0m
+[136.132s] [ 79%] Built target diagnostic_msgs__rosidl_typesupport_cpp
+[136.410s] [ 79%] Built target diagnostic_msgs
+[136.669s] [ 80%] [34m[1mGenerating Python code for ROS interfaces[0m
+[146.502s] [ 80%] Built target diagnostic_msgs__py
+[146.787s] [ 82%] [32mBuilding C object CMakeFiles/diagnostic_msgs__rosidl_generator_py.dir/rosidl_generator_py/diagnostic_msgs/msg/_diagnostic_array_s.c.o[0m
+[147.718s] [ 84%] [32mBuilding C object CMakeFiles/diagnostic_msgs__rosidl_generator_py.dir/rosidl_generator_py/diagnostic_msgs/srv/_add_diagnostics_s.c.o[0m
+[148.781s] [ 85%] [32mBuilding C object CMakeFiles/diagnostic_msgs__rosidl_generator_py.dir/rosidl_generator_py/diagnostic_msgs/srv/_self_test_s.c.o[0m
+[149.543s] [ 87%] [32mBuilding C object CMakeFiles/diagnostic_msgs__rosidl_generator_py.dir/rosidl_generator_py/diagnostic_msgs/msg/_key_value_s.c.o[0m
+[150.208s] [ 88%] [32mBuilding C object CMakeFiles/diagnostic_msgs__rosidl_generator_py.dir/rosidl_generator_py/diagnostic_msgs/msg/_diagnostic_status_s.c.o[0m
+[151.629s] [ 90%] [32m[1mLinking C shared library rosidl_generator_py/diagnostic_msgs/libdiagnostic_msgs__rosidl_generator_py.so[0m
+[152.152s] [ 90%] Built target diagnostic_msgs__rosidl_generator_py
+[152.330s] [ 92%] [32mBuilding C object CMakeFiles/diagnostic_msgs__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/diagnostic_msgs/_diagnostic_msgs_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[153.527s] [ 93%] [32m[1mLinking C shared library rosidl_generator_py/diagnostic_msgs/diagnostic_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-aarch64-linux-gnu.so[0m
+[153.995s] [ 93%] Built target diagnostic_msgs__rosidl_typesupport_fastrtps_c__pyext
+[154.278s] [ 95%] [32mBuilding C object CMakeFiles/diagnostic_msgs__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/diagnostic_msgs/_diagnostic_msgs_s.ep.rosidl_typesupport_c.c.o[0m
+[155.873s] [ 96%] [32m[1mLinking C shared library rosidl_generator_py/diagnostic_msgs/diagnostic_msgs_s__rosidl_typesupport_c.cpython-310-aarch64-linux-gnu.so[0m
+[156.497s] [ 96%] Built target diagnostic_msgs__rosidl_typesupport_c__pyext
+[156.899s] [ 98%] [32mBuilding C object CMakeFiles/diagnostic_msgs__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/diagnostic_msgs/_diagnostic_msgs_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[158.293s] [100%] [32m[1mLinking C shared library rosidl_generator_py/diagnostic_msgs/diagnostic_msgs_s__rosidl_typesupport_introspection_c.cpython-310-aarch64-linux-gnu.so[0m
+[158.686s] [100%] Built target diagnostic_msgs__rosidl_typesupport_introspection_c__pyext
+[158.812s] Invoked command in '/home/teng/ros2_ws/build/diagnostic_msgs' returned '0': CMAKE_PREFIX_PATH=/home/teng/ros2_ws/install/geometry_msgs:/home/teng/ros2_ws/install/std_msgs:/home/teng/ros2_ws/install/common_interfaces:/home/teng/ros2_ws/install/visualization_msgs:/home/teng/ros2_ws/install/trajectory_msgs:/home/teng/ros2_ws/install/stereo_msgs:/home/teng/ros2_ws/install/std_srvs:/home/teng/ros2_ws/install/shape_msgs:/home/teng/ros2_ws/install/sensor_msgs:/home/teng/ros2_ws/install/nav_msgs:/home/teng/ros2_ws/install/diagnostic_msgs:/home/teng/ros2_ws/install/actionlib_msgs:/home/teng/ros2_ws/install/exp_1_bringup:/home/teng/ros2_ws/install/simple_interfaces:/home/teng/ros2_ws/install/sensor_msgs_py:/home/teng/ros2_ws/install/experiment1:/opt/ros/humble LD_LIBRARY_PATH=/home/teng/ros2_ws/install/geometry_msgs/lib:/home/teng/ros2_ws/install/std_msgs/lib:/home/teng/ros2_ws/install/visualization_msgs/lib:/home/teng/ros2_ws/install/trajectory_msgs/lib:/home/teng/ros2_ws/install/stereo_msgs/lib:/home/teng/ros2_ws/install/std_srvs/lib:/home/teng/ros2_ws/install/shape_msgs/lib:/home/teng/ros2_ws/install/sensor_msgs/lib:/home/teng/ros2_ws/install/nav_msgs/lib:/home/teng/ros2_ws/install/diagnostic_msgs/lib:/home/teng/ros2_ws/install/actionlib_msgs/lib:/home/teng/ros2_ws/install/simple_interfaces/lib:/opt/ros/humble/lib/aarch64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --build /home/teng/ros2_ws/build/diagnostic_msgs -- -j4 -l4
+[162.585s] Invoking command in '/home/teng/ros2_ws/build/diagnostic_msgs': CMAKE_PREFIX_PATH=/home/teng/ros2_ws/install/geometry_msgs:/home/teng/ros2_ws/install/std_msgs:/home/teng/ros2_ws/install/common_interfaces:/home/teng/ros2_ws/install/visualization_msgs:/home/teng/ros2_ws/install/trajectory_msgs:/home/teng/ros2_ws/install/stereo_msgs:/home/teng/ros2_ws/install/std_srvs:/home/teng/ros2_ws/install/shape_msgs:/home/teng/ros2_ws/install/sensor_msgs:/home/teng/ros2_ws/install/nav_msgs:/home/teng/ros2_ws/install/diagnostic_msgs:/home/teng/ros2_ws/install/actionlib_msgs:/home/teng/ros2_ws/install/exp_1_bringup:/home/teng/ros2_ws/install/simple_interfaces:/home/teng/ros2_ws/install/sensor_msgs_py:/home/teng/ros2_ws/install/experiment1:/opt/ros/humble LD_LIBRARY_PATH=/home/teng/ros2_ws/install/geometry_msgs/lib:/home/teng/ros2_ws/install/std_msgs/lib:/home/teng/ros2_ws/install/visualization_msgs/lib:/home/teng/ros2_ws/install/trajectory_msgs/lib:/home/teng/ros2_ws/install/stereo_msgs/lib:/home/teng/ros2_ws/install/std_srvs/lib:/home/teng/ros2_ws/install/shape_msgs/lib:/home/teng/ros2_ws/install/sensor_msgs/lib:/home/teng/ros2_ws/install/nav_msgs/lib:/home/teng/ros2_ws/install/diagnostic_msgs/lib:/home/teng/ros2_ws/install/actionlib_msgs/lib:/home/teng/ros2_ws/install/simple_interfaces/lib:/opt/ros/humble/lib/aarch64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --install /home/teng/ros2_ws/build/diagnostic_msgs
+[162.693s] -- Install configuration: ""
+[162.696s] -- Execute custom install script
+[162.704s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/share/ament_index/resource_index/rosidl_interfaces/diagnostic_msgs
+[162.782s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/diagnostic_array__functions.h
+[162.882s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/diagnostic_array__struct.h
+[163.011s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/diagnostic_array__type_support.h
+[163.151s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/diagnostic_status__functions.h
+[163.233s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/diagnostic_status__struct.h
+[163.337s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/diagnostic_status__type_support.h
+[163.403s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/key_value__functions.h
+[163.461s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/key_value__struct.h
+[163.514s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/key_value__type_support.h
+[163.601s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/diagnostic_array.h
+[163.709s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/diagnostic_status.h
+[163.823s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/key_value.h
+[163.899s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/rosidl_generator_c__visibility_control.h
+[164.019s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv/add_diagnostics.h
+[164.149s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv/detail/add_diagnostics__functions.h
+[164.275s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv/detail/add_diagnostics__struct.h
+[164.333s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv/detail/add_diagnostics__type_support.h
+[164.382s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv/detail/self_test__functions.h
+[164.473s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv/detail/self_test__struct.h
+[164.525s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv/detail/self_test__type_support.h
+[164.590s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv/self_test.h
+[164.648s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/share/diagnostic_msgs/environment/library_path.sh
+[164.706s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/share/diagnostic_msgs/environment/library_path.dsv
+[164.778s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/diagnostic_array__rosidl_typesupport_fastrtps_c.h
+[164.856s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/diagnostic_status__rosidl_typesupport_fastrtps_c.h
+[164.959s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/key_value__rosidl_typesupport_fastrtps_c.h
+[165.131s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[165.240s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv/detail/add_diagnostics__rosidl_typesupport_fastrtps_c.h
+[165.324s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv/detail/self_test__rosidl_typesupport_fastrtps_c.h
+[165.384s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/diagnostic_array__rosidl_typesupport_introspection_c.h
+[165.477s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/diagnostic_status__rosidl_typesupport_introspection_c.h
+[165.576s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/key_value__rosidl_typesupport_introspection_c.h
+[165.645s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[165.732s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv/detail/add_diagnostics__rosidl_typesupport_introspection_c.h
+[165.799s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv/detail/self_test__rosidl_typesupport_introspection_c.h
+[165.874s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/diagnostic_array__builder.hpp
+[165.954s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/diagnostic_array__struct.hpp
+[166.025s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/diagnostic_array__traits.hpp
+[166.094s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/diagnostic_status__builder.hpp
+[166.162s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/diagnostic_status__struct.hpp
+[166.237s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/diagnostic_status__traits.hpp
+[166.351s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/key_value__builder.hpp
+[166.473s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/key_value__struct.hpp
+[166.571s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/key_value__traits.hpp
+[166.703s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/diagnostic_array.hpp
+[166.846s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/diagnostic_status.hpp
+[166.978s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/key_value.hpp
+[167.040s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv/add_diagnostics.hpp
+[167.107s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv/detail/add_diagnostics__builder.hpp
+[167.172s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv/detail/add_diagnostics__struct.hpp
+[167.252s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv/detail/add_diagnostics__traits.hpp
+[167.320s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv/detail/self_test__builder.hpp
+[167.386s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv/detail/self_test__struct.hpp
+[167.465s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv/detail/self_test__traits.hpp
+[167.525s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv/self_test.hpp
+[167.645s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/diagnostic_array__rosidl_typesupport_fastrtps_cpp.hpp
+[167.701s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/diagnostic_status__rosidl_typesupport_fastrtps_cpp.hpp
+[167.767s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/key_value__rosidl_typesupport_fastrtps_cpp.hpp
+[167.832s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[167.883s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv/detail/add_diagnostics__rosidl_typesupport_fastrtps_cpp.hpp
+[167.937s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv/detail/self_test__rosidl_typesupport_fastrtps_cpp.hpp
+[167.994s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/diagnostic_array__rosidl_typesupport_introspection_cpp.hpp
+[168.080s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/diagnostic_status__rosidl_typesupport_introspection_cpp.hpp
+[168.183s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/key_value__rosidl_typesupport_introspection_cpp.hpp
+[168.255s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv/detail/add_diagnostics__rosidl_typesupport_introspection_cpp.hpp
+[168.373s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv/detail/self_test__rosidl_typesupport_introspection_cpp.hpp
+[168.488s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/share/diagnostic_msgs/environment/pythonpath.sh
+[168.618s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/share/diagnostic_msgs/environment/pythonpath.dsv
+[168.815s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs-5.2.0-py3.10.egg-info/PKG-INFO
+[168.932s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs-5.2.0-py3.10.egg-info/SOURCES.txt
+[169.021s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs-5.2.0-py3.10.egg-info/dependency_links.txt
+[169.076s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs-5.2.0-py3.10.egg-info/top_level.txt
+[169.141s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs/__init__.py
+[169.199s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs/_diagnostic_msgs_s.ep.rosidl_typesupport_c.c
+[169.258s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs/_diagnostic_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+[169.335s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs/_diagnostic_msgs_s.ep.rosidl_typesupport_introspection_c.c
+[169.417s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs/diagnostic_msgs_s__rosidl_typesupport_c.cpython-310-aarch64-linux-gnu.so
+[169.477s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs/diagnostic_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-aarch64-linux-gnu.so
+[169.542s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs/diagnostic_msgs_s__rosidl_typesupport_introspection_c.cpython-310-aarch64-linux-gnu.so
+[169.616s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs/libdiagnostic_msgs__rosidl_generator_py.so
+[169.677s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs/msg/__init__.py
+[169.734s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs/msg/_diagnostic_array.py
+[169.791s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs/msg/_diagnostic_array_s.c
+[169.857s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs/msg/_diagnostic_status.py
+[169.918s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs/msg/_diagnostic_status_s.c
+[169.986s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs/msg/_key_value.py
+[170.048s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs/msg/_key_value_s.c
+[170.109s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs/srv/__init__.py
+[170.203s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs/srv/_add_diagnostics.py
+[170.322s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs/srv/_add_diagnostics_s.c
+[170.400s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs/srv/_self_test.py
+[170.462s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs/srv/_self_test_s.c
+[170.520s] -- Up-to-date symlink: /home/teng/ros2_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs/diagnostic_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-aarch64-linux-gnu.so
+[170.529s] -- Up-to-date symlink: /home/teng/ros2_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs/diagnostic_msgs_s__rosidl_typesupport_introspection_c.cpython-310-aarch64-linux-gnu.so
+[170.536s] -- Up-to-date symlink: /home/teng/ros2_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs/diagnostic_msgs_s__rosidl_typesupport_c.cpython-310-aarch64-linux-gnu.so
+[170.542s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/share/diagnostic_msgs/msg/DiagnosticArray.idl
+[170.598s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/share/diagnostic_msgs/msg/DiagnosticStatus.idl
+[170.662s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/share/diagnostic_msgs/msg/KeyValue.idl
+[170.753s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/share/diagnostic_msgs/srv/AddDiagnostics.idl
+[170.873s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/share/diagnostic_msgs/srv/SelfTest.idl
+[171.004s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/share/diagnostic_msgs/msg/DiagnosticArray.msg
+[171.132s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/share/diagnostic_msgs/msg/DiagnosticStatus.msg
+[171.287s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/share/diagnostic_msgs/msg/KeyValue.msg
+[171.440s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/share/diagnostic_msgs/srv/AddDiagnostics.srv
+[171.522s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/share/diagnostic_msgs/srv/AddDiagnostics_Request.msg
+[171.603s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/share/diagnostic_msgs/srv/AddDiagnostics_Response.msg
+[171.712s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/share/diagnostic_msgs/srv/SelfTest.srv
+[171.831s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/share/diagnostic_msgs/srv/SelfTest_Request.msg
+[171.962s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/share/diagnostic_msgs/srv/SelfTest_Response.msg
+[172.072s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/share/ament_index/resource_index/package_run_dependencies/diagnostic_msgs
+[172.195s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/share/ament_index/resource_index/parent_prefix_path/diagnostic_msgs
+[172.305s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/share/diagnostic_msgs/environment/ament_prefix_path.sh
+[172.384s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/share/diagnostic_msgs/environment/ament_prefix_path.dsv
+[172.490s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/share/diagnostic_msgs/environment/path.sh
+[172.568s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/share/diagnostic_msgs/environment/path.dsv
+[172.627s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/share/diagnostic_msgs/local_setup.bash
+[172.689s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/share/diagnostic_msgs/local_setup.sh
+[172.743s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/share/diagnostic_msgs/local_setup.zsh
+[172.803s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/share/diagnostic_msgs/local_setup.dsv
+[172.854s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/share/diagnostic_msgs/package.dsv
+[172.953s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/share/ament_index/resource_index/packages/diagnostic_msgs
+[173.076s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/share/diagnostic_msgs/cmake/rosidl_cmake-extras.cmake
+[173.213s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/share/diagnostic_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[173.338s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/share/diagnostic_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[173.481s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/share/diagnostic_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[173.544s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/share/diagnostic_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[173.620s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/share/diagnostic_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[173.820s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/share/diagnostic_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[174.009s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/share/diagnostic_msgs/cmake/diagnostic_msgsConfig.cmake
+[174.157s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/share/diagnostic_msgs/cmake/diagnostic_msgsConfig-version.cmake
+[174.231s] -- Symlinking: /home/teng/ros2_ws/install/diagnostic_msgs/share/diagnostic_msgs/package.xml
+[174.367s] -- Installing: /home/teng/ros2_ws/install/diagnostic_msgs/lib/libdiagnostic_msgs__rosidl_generator_c.so
+[174.374s] -- Set runtime path of "/home/teng/ros2_ws/install/diagnostic_msgs/lib/libdiagnostic_msgs__rosidl_generator_c.so" to ""
+[174.376s] -- Installing: /home/teng/ros2_ws/install/diagnostic_msgs/lib/libdiagnostic_msgs__rosidl_typesupport_fastrtps_c.so
+[174.377s] -- Set runtime path of "/home/teng/ros2_ws/install/diagnostic_msgs/lib/libdiagnostic_msgs__rosidl_typesupport_fastrtps_c.so" to ""
+[174.385s] -- Installing: /home/teng/ros2_ws/install/diagnostic_msgs/lib/libdiagnostic_msgs__rosidl_typesupport_introspection_c.so
+[174.399s] -- Set runtime path of "/home/teng/ros2_ws/install/diagnostic_msgs/lib/libdiagnostic_msgs__rosidl_typesupport_introspection_c.so" to ""
+[174.399s] -- Installing: /home/teng/ros2_ws/install/diagnostic_msgs/lib/libdiagnostic_msgs__rosidl_typesupport_c.so
+[174.413s] -- Set runtime path of "/home/teng/ros2_ws/install/diagnostic_msgs/lib/libdiagnostic_msgs__rosidl_typesupport_c.so" to ""
+[174.414s] -- Installing: /home/teng/ros2_ws/install/diagnostic_msgs/lib/libdiagnostic_msgs__rosidl_typesupport_fastrtps_cpp.so
+[174.415s] -- Set runtime path of "/home/teng/ros2_ws/install/diagnostic_msgs/lib/libdiagnostic_msgs__rosidl_typesupport_fastrtps_cpp.so" to ""
+[174.422s] -- Installing: /home/teng/ros2_ws/install/diagnostic_msgs/lib/libdiagnostic_msgs__rosidl_typesupport_introspection_cpp.so
+[174.426s] -- Set runtime path of "/home/teng/ros2_ws/install/diagnostic_msgs/lib/libdiagnostic_msgs__rosidl_typesupport_introspection_cpp.so" to ""
+[174.427s] -- Installing: /home/teng/ros2_ws/install/diagnostic_msgs/lib/libdiagnostic_msgs__rosidl_typesupport_cpp.so
+[174.451s] -- Set runtime path of "/home/teng/ros2_ws/install/diagnostic_msgs/lib/libdiagnostic_msgs__rosidl_typesupport_cpp.so" to ""
+[175.223s] Listing '/home/teng/ros2_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs'...
+[175.225s] Compiling '/home/teng/ros2_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs/__init__.py'...
+[175.226s] Listing '/home/teng/ros2_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs/msg'...
+[175.227s] Compiling '/home/teng/ros2_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs/msg/__init__.py'...
+[175.227s] Compiling '/home/teng/ros2_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs/msg/_diagnostic_array.py'...
+[175.227s] Compiling '/home/teng/ros2_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs/msg/_diagnostic_status.py'...
+[175.228s] Compiling '/home/teng/ros2_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs/msg/_key_value.py'...
+[175.229s] Listing '/home/teng/ros2_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs/srv'...
+[175.229s] Compiling '/home/teng/ros2_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs/srv/__init__.py'...
+[175.230s] Compiling '/home/teng/ros2_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs/srv/_add_diagnostics.py'...
+[175.230s] Compiling '/home/teng/ros2_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs/srv/_self_test.py'...
+[175.358s] -- Installing: /home/teng/ros2_ws/install/diagnostic_msgs/lib/libdiagnostic_msgs__rosidl_generator_py.so
+[175.368s] -- Set runtime path of "/home/teng/ros2_ws/install/diagnostic_msgs/lib/libdiagnostic_msgs__rosidl_generator_py.so" to ""
+[175.370s] -- Installing: /home/teng/ros2_ws/install/diagnostic_msgs/share/diagnostic_msgs/cmake/export_diagnostic_msgs__rosidl_generator_cExport.cmake
+[175.374s] -- Installing: /home/teng/ros2_ws/install/diagnostic_msgs/share/diagnostic_msgs/cmake/export_diagnostic_msgs__rosidl_generator_cExport-noconfig.cmake
+[175.381s] -- Installing: /home/teng/ros2_ws/install/diagnostic_msgs/share/diagnostic_msgs/cmake/export_diagnostic_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+[175.429s] -- Installing: /home/teng/ros2_ws/install/diagnostic_msgs/share/diagnostic_msgs/cmake/export_diagnostic_msgs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[175.429s] -- Installing: /home/teng/ros2_ws/install/diagnostic_msgs/share/diagnostic_msgs/cmake/diagnostic_msgs__rosidl_typesupport_introspection_cExport.cmake
+[175.430s] -- Installing: /home/teng/ros2_ws/install/diagnostic_msgs/share/diagnostic_msgs/cmake/diagnostic_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[175.431s] -- Installing: /home/teng/ros2_ws/install/diagnostic_msgs/share/diagnostic_msgs/cmake/diagnostic_msgs__rosidl_typesupport_cExport.cmake
+[175.441s] -- Installing: /home/teng/ros2_ws/install/diagnostic_msgs/share/diagnostic_msgs/cmake/diagnostic_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[175.444s] -- Installing: /home/teng/ros2_ws/install/diagnostic_msgs/share/diagnostic_msgs/cmake/export_diagnostic_msgs__rosidl_generator_cppExport.cmake
+[175.457s] -- Installing: /home/teng/ros2_ws/install/diagnostic_msgs/share/diagnostic_msgs/cmake/export_diagnostic_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+[175.457s] -- Installing: /home/teng/ros2_ws/install/diagnostic_msgs/share/diagnostic_msgs/cmake/export_diagnostic_msgs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[175.466s] -- Installing: /home/teng/ros2_ws/install/diagnostic_msgs/share/diagnostic_msgs/cmake/diagnostic_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[175.469s] -- Installing: /home/teng/ros2_ws/install/diagnostic_msgs/share/diagnostic_msgs/cmake/diagnostic_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[175.472s] -- Installing: /home/teng/ros2_ws/install/diagnostic_msgs/share/diagnostic_msgs/cmake/diagnostic_msgs__rosidl_typesupport_cppExport.cmake
+[175.485s] -- Installing: /home/teng/ros2_ws/install/diagnostic_msgs/share/diagnostic_msgs/cmake/diagnostic_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[175.497s] -- Installing: /home/teng/ros2_ws/install/diagnostic_msgs/share/diagnostic_msgs/cmake/export_diagnostic_msgs__rosidl_generator_pyExport.cmake
+[175.498s] -- Installing: /home/teng/ros2_ws/install/diagnostic_msgs/share/diagnostic_msgs/cmake/export_diagnostic_msgs__rosidl_generator_pyExport-noconfig.cmake
+[175.563s] Invoked command in '/home/teng/ros2_ws/build/diagnostic_msgs' returned '0': CMAKE_PREFIX_PATH=/home/teng/ros2_ws/install/geometry_msgs:/home/teng/ros2_ws/install/std_msgs:/home/teng/ros2_ws/install/common_interfaces:/home/teng/ros2_ws/install/visualization_msgs:/home/teng/ros2_ws/install/trajectory_msgs:/home/teng/ros2_ws/install/stereo_msgs:/home/teng/ros2_ws/install/std_srvs:/home/teng/ros2_ws/install/shape_msgs:/home/teng/ros2_ws/install/sensor_msgs:/home/teng/ros2_ws/install/nav_msgs:/home/teng/ros2_ws/install/diagnostic_msgs:/home/teng/ros2_ws/install/actionlib_msgs:/home/teng/ros2_ws/install/exp_1_bringup:/home/teng/ros2_ws/install/simple_interfaces:/home/teng/ros2_ws/install/sensor_msgs_py:/home/teng/ros2_ws/install/experiment1:/opt/ros/humble LD_LIBRARY_PATH=/home/teng/ros2_ws/install/geometry_msgs/lib:/home/teng/ros2_ws/install/std_msgs/lib:/home/teng/ros2_ws/install/visualization_msgs/lib:/home/teng/ros2_ws/install/trajectory_msgs/lib:/home/teng/ros2_ws/install/stereo_msgs/lib:/home/teng/ros2_ws/install/std_srvs/lib:/home/teng/ros2_ws/install/shape_msgs/lib:/home/teng/ros2_ws/install/sensor_msgs/lib:/home/teng/ros2_ws/install/nav_msgs/lib:/home/teng/ros2_ws/install/diagnostic_msgs/lib:/home/teng/ros2_ws/install/actionlib_msgs/lib:/home/teng/ros2_ws/install/simple_interfaces/lib:/opt/ros/humble/lib/aarch64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --install /home/teng/ros2_ws/build/diagnostic_msgs

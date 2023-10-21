@@ -1,0 +1,10 @@
+{
+  "package_name": "diagnostic_msgs",
+  "non_idl_tuples": [
+    "/home/teng/ros2_ws/src/ros2_common_interfaces/diagnostic_msgs:msg/DiagnosticArray.msg",
+    "/home/teng/ros2_ws/src/ros2_common_interfaces/diagnostic_msgs:msg/DiagnosticStatus.msg",
+    "/home/teng/ros2_ws/src/ros2_common_interfaces/diagnostic_msgs:msg/KeyValue.msg",
+    "/home/teng/ros2_ws/src/ros2_common_interfaces/diagnostic_msgs:srv/AddDiagnostics.srv",
+    "/home/teng/ros2_ws/src/ros2_common_interfaces/diagnostic_msgs:srv/SelfTest.srv"
+  ]
+}

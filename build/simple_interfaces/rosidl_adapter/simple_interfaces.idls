@@ -1,0 +1,7 @@
+/home/teng/ros2_ws/build/simple_interfaces/rosidl_adapter/simple_interfaces:msg/HardwareStatus.idl
+/home/teng/ros2_ws/build/simple_interfaces/rosidl_adapter/simple_interfaces:msg/LedStateArray.idl
+/home/teng/ros2_ws/build/simple_interfaces/rosidl_adapter/simple_interfaces:msg/ButtonState.idl
+/home/teng/ros2_ws/build/simple_interfaces/rosidl_adapter/simple_interfaces:msg/JoystickScalarValue.idl
+/home/teng/ros2_ws/build/simple_interfaces/rosidl_adapter/simple_interfaces:srv/ExService.idl
+/home/teng/ros2_ws/build/simple_interfaces/rosidl_adapter/simple_interfaces:srv/SetLed.idl
+/home/teng/ros2_ws/build/simple_interfaces/rosidl_adapter/simple_interfaces:srv/SetJoystickScalar.idl

@@ -1,0 +1,1 @@
+/home/teng/ros2_ws/build/simple_interfaces/rosidl_generator_c/simple_interfaces/msg/detail/hardware_status__type_support.h

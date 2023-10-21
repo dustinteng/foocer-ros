@@ -1,0 +1,22 @@
+[5.942s] Invoking command in '/home/teng/ros2_ws/build/sensor_msgs_py': CMAKE_PREFIX_PATH=/home/teng/ros2_ws/install/sensor_msgs:/home/teng/ros2_ws/install/geometry_msgs:/home/teng/ros2_ws/install/std_msgs:/home/teng/ros2_ws/install/common_interfaces:/home/teng/ros2_ws/install/visualization_msgs:/home/teng/ros2_ws/install/trajectory_msgs:/home/teng/ros2_ws/install/stereo_msgs:/home/teng/ros2_ws/install/std_srvs:/home/teng/ros2_ws/install/shape_msgs:/home/teng/ros2_ws/install/nav_msgs:/home/teng/ros2_ws/install/diagnostic_msgs:/home/teng/ros2_ws/install/actionlib_msgs:/home/teng/ros2_ws/install/exp_1_bringup:/home/teng/ros2_ws/install/simple_interfaces LD_LIBRARY_PATH=/home/teng/ros2_ws/install/sensor_msgs/lib:/home/teng/ros2_ws/install/geometry_msgs/lib:/home/teng/ros2_ws/install/std_msgs/lib:/home/teng/ros2_ws/install/visualization_msgs/lib:/home/teng/ros2_ws/install/trajectory_msgs/lib:/home/teng/ros2_ws/install/stereo_msgs/lib:/home/teng/ros2_ws/install/std_srvs/lib:/home/teng/ros2_ws/install/shape_msgs/lib:/home/teng/ros2_ws/install/nav_msgs/lib:/home/teng/ros2_ws/install/diagnostic_msgs/lib:/home/teng/ros2_ws/install/actionlib_msgs/lib:/home/teng/ros2_ws/install/simple_interfaces/lib:/opt/ros/humble/lib/aarch64-linux-gnu:/opt/ros/humble/lib PYTHONPATH=/home/teng/ros2_ws/build/sensor_msgs_py/prefix_override:/home/teng/ros2_ws/install/sensor_msgs_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/teng/ros2_ws/build/sensor_msgs_py/build --no-deps install_data
+[8.569s] running develop
+[10.185s] running egg_info
+[10.186s] creating sensor_msgs_py.egg-info
+[10.189s] writing sensor_msgs_py.egg-info/PKG-INFO
+[10.193s] writing dependency_links to sensor_msgs_py.egg-info/dependency_links.txt
+[10.195s] writing requirements to sensor_msgs_py.egg-info/requires.txt
+[10.197s] writing top-level names to sensor_msgs_py.egg-info/top_level.txt
+[10.200s] writing manifest file 'sensor_msgs_py.egg-info/SOURCES.txt'
+[10.226s] reading manifest file 'sensor_msgs_py.egg-info/SOURCES.txt'
+[10.236s] writing manifest file 'sensor_msgs_py.egg-info/SOURCES.txt'
+[10.253s] running build_ext
+[10.255s] Creating /home/teng/ros2_ws/install/sensor_msgs_py/lib/python3.10/site-packages/sensor-msgs-py.egg-link (link to .)
+[10.265s] 
+[10.267s] Installed /home/teng/ros2_ws/build/sensor_msgs_py
+[10.272s] running install_data
+[10.273s] creating /home/teng/ros2_ws/install/sensor_msgs_py/share/ament_index
+[10.274s] creating /home/teng/ros2_ws/install/sensor_msgs_py/share/ament_index/resource_index
+[10.276s] creating /home/teng/ros2_ws/install/sensor_msgs_py/share/ament_index/resource_index/packages
+[10.276s] copying resource/sensor_msgs_py -> /home/teng/ros2_ws/install/sensor_msgs_py/share/ament_index/resource_index/packages
+[10.277s] copying package.xml -> /home/teng/ros2_ws/install/sensor_msgs_py/share/sensor_msgs_py
+[10.549s] Invoked command in '/home/teng/ros2_ws/build/sensor_msgs_py' returned '0': CMAKE_PREFIX_PATH=/home/teng/ros2_ws/install/sensor_msgs:/home/teng/ros2_ws/install/geometry_msgs:/home/teng/ros2_ws/install/std_msgs:/home/teng/ros2_ws/install/common_interfaces:/home/teng/ros2_ws/install/visualization_msgs:/home/teng/ros2_ws/install/trajectory_msgs:/home/teng/ros2_ws/install/stereo_msgs:/home/teng/ros2_ws/install/std_srvs:/home/teng/ros2_ws/install/shape_msgs:/home/teng/ros2_ws/install/nav_msgs:/home/teng/ros2_ws/install/diagnostic_msgs:/home/teng/ros2_ws/install/actionlib_msgs:/home/teng/ros2_ws/install/exp_1_bringup:/home/teng/ros2_ws/install/simple_interfaces LD_LIBRARY_PATH=/home/teng/ros2_ws/install/sensor_msgs/lib:/home/teng/ros2_ws/install/geometry_msgs/lib:/home/teng/ros2_ws/install/std_msgs/lib:/home/teng/ros2_ws/install/visualization_msgs/lib:/home/teng/ros2_ws/install/trajectory_msgs/lib:/home/teng/ros2_ws/install/stereo_msgs/lib:/home/teng/ros2_ws/install/std_srvs/lib:/home/teng/ros2_ws/install/shape_msgs/lib:/home/teng/ros2_ws/install/nav_msgs/lib:/home/teng/ros2_ws/install/diagnostic_msgs/lib:/home/teng/ros2_ws/install/actionlib_msgs/lib:/home/teng/ros2_ws/install/simple_interfaces/lib:/opt/ros/humble/lib/aarch64-linux-gnu:/opt/ros/humble/lib PYTHONPATH=/home/teng/ros2_ws/build/sensor_msgs_py/prefix_override:/home/teng/ros2_ws/install/sensor_msgs_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/teng/ros2_ws/build/sensor_msgs_py/build --no-deps install_data
