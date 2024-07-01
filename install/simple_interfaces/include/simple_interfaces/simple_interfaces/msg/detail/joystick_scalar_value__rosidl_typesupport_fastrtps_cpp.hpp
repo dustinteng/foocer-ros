@@ -1,1 +1,0 @@
-/home/teng/ros2_ws/build/simple_interfaces/rosidl_typesupport_fastrtps_cpp/simple_interfaces/msg/detail/joystick_scalar_value__rosidl_typesupport_fastrtps_cpp.hpp

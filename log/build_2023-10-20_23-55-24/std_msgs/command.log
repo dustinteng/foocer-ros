@@ -1,2 +1,0 @@
-Invoking command in '/home/teng/foocer-dev/ros2_ws/build/std_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/teng/ros2_ws/install/sensor_msgs_py:/home/teng/ros2_ws/install/experiment1:/opt/ros/humble /usr/bin/cmake --build /home/teng/foocer-dev/ros2_ws/build/std_msgs -- -j4 -l4
-Invoked command in '/home/teng/foocer-dev/ros2_ws/build/std_msgs' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/teng/ros2_ws/install/sensor_msgs_py:/home/teng/ros2_ws/install/experiment1:/opt/ros/humble /usr/bin/cmake --build /home/teng/foocer-dev/ros2_ws/build/std_msgs -- -j4 -l4

@@ -1,1 +1,0 @@
-/home/teng/ros2_ws/src/ros2_common_interfaces/sensor_msgs/include/sensor_msgs/fill_image.hpp

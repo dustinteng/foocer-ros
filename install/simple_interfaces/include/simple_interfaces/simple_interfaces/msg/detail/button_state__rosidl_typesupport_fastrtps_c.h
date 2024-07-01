@@ -1,1 +1,0 @@
-/home/teng/ros2_ws/build/simple_interfaces/rosidl_typesupport_fastrtps_c/simple_interfaces/msg/detail/button_state__rosidl_typesupport_fastrtps_c.h

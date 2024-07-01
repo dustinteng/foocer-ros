@@ -1,1 +1,0 @@
-/home/teng/ros2_ws/build/std_srvs/rosidl_cmake/srv/Trigger_Request.msg

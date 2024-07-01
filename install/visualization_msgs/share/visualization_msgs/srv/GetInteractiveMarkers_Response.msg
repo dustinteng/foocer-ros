@@ -1,1 +1,0 @@
-/home/teng/ros2_ws/build/visualization_msgs/rosidl_cmake/srv/GetInteractiveMarkers_Response.msg

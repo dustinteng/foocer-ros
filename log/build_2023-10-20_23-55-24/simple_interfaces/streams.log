@@ -1,6 +1,0 @@
-[0.433s] Invoking command in '/home/teng/foocer-dev/ros2_ws/build/simple_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/teng/ros2_ws/install/sensor_msgs_py:/home/teng/ros2_ws/install/experiment1:/opt/ros/humble /usr/bin/cmake --build /home/teng/foocer-dev/ros2_ws/build/simple_interfaces -- -j4 -l4
-[0.466s] [0mCMake Error: The current CMakeCache.txt directory /home/teng/foocer-dev/ros2_ws/build/simple_interfaces/CMakeCache.txt is different than the directory /home/teng/ros2_ws/build/simple_interfaces where CMakeCache.txt was created. This may result in binaries being created in the wrong place. If you are not sure, reedit the CMakeCache.txt[0m
-[0.519s] [0mCMake Error: The source directory "/home/teng/ros2_ws/src/simple_interfaces" does not exist.
-[0.520s] Specify --help for usage, or press the help button on the CMake GUI.[0m
-[0.524s] gmake: *** [Makefile:2043: cmake_check_build_system] Error 1
-[0.532s] Invoked command in '/home/teng/foocer-dev/ros2_ws/build/simple_interfaces' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/teng/ros2_ws/install/sensor_msgs_py:/home/teng/ros2_ws/install/experiment1:/opt/ros/humble /usr/bin/cmake --build /home/teng/foocer-dev/ros2_ws/build/simple_interfaces -- -j4 -l4

@@ -1,1 +1,0 @@
-/home/teng/ros2_ws/build/stereo_msgs/rosidl_cmake/rosidl_cmake-extras.cmake

@@ -1,1 +1,0 @@
-/home/teng/ros2_ws/build/simple_interfaces/rosidl_generator_py/simple_interfaces/msg/_joystick_scalar_value.py

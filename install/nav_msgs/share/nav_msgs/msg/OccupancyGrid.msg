@@ -1,1 +1,0 @@
-/home/teng/ros2_ws/src/ros2_common_interfaces/nav_msgs/msg/OccupancyGrid.msg

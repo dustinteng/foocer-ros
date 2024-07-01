@@ -1,1 +1,0 @@
-/home/teng/ros2_ws/src/ros2_common_interfaces/trajectory_msgs/msg/MultiDOFJointTrajectoryPoint.msg

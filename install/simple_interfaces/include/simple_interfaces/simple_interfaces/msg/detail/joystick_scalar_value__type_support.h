@@ -1,1 +1,0 @@
-/home/teng/ros2_ws/build/simple_interfaces/rosidl_generator_c/simple_interfaces/msg/detail/joystick_scalar_value__type_support.h

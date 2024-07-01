@@ -1,6 +1,0 @@
-[0.264s] Invoking command in '/home/teng/foocer-dev/ros2_ws/build/std_srvs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/teng/ros2_ws/install/sensor_msgs_py:/home/teng/ros2_ws/install/experiment1:/opt/ros/humble /usr/bin/cmake --build /home/teng/foocer-dev/ros2_ws/build/std_srvs -- -j4 -l4
-[0.297s] [0mCMake Error: The current CMakeCache.txt directory /home/teng/foocer-dev/ros2_ws/build/std_srvs/CMakeCache.txt is different than the directory /home/teng/ros2_ws/build/std_srvs where CMakeCache.txt was created. This may result in binaries being created in the wrong place. If you are not sure, reedit the CMakeCache.txt[0m
-[0.356s] [0mCMake Error: The source directory "/home/teng/ros2_ws/src/ros2_common_interfaces/std_srvs" does not exist.
-[0.360s] Specify --help for usage, or press the help button on the CMake GUI.[0m
-[0.364s] gmake: *** [Makefile:1179: cmake_check_build_system] Error 1
-[0.377s] Invoked command in '/home/teng/foocer-dev/ros2_ws/build/std_srvs' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/teng/ros2_ws/install/sensor_msgs_py:/home/teng/ros2_ws/install/experiment1:/opt/ros/humble /usr/bin/cmake --build /home/teng/foocer-dev/ros2_ws/build/std_srvs -- -j4 -l4

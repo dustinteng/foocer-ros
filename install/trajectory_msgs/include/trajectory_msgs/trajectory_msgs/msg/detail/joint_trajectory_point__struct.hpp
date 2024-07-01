@@ -1,1 +1,0 @@
-/home/teng/ros2_ws/build/trajectory_msgs/rosidl_generator_cpp/trajectory_msgs/msg/detail/joint_trajectory_point__struct.hpp

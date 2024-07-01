@@ -1,1 +1,0 @@
-/home/teng/ros2_ws/build/simple_interfaces/rosidl_generator_c/simple_interfaces/msg/rosidl_generator_c__visibility_control.h

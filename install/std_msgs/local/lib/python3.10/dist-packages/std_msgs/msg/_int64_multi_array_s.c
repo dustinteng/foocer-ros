@@ -1,1 +1,0 @@
-/home/teng/ros2_ws/build/std_msgs/rosidl_generator_py/std_msgs/msg/_int64_multi_array_s.c
