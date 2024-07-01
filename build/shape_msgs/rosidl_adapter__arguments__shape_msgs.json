@@ -1,9 +1,0 @@
-{
-  "package_name": "shape_msgs",
-  "non_idl_tuples": [
-    "/home/teng/ros2_ws/src/ros2_common_interfaces/shape_msgs:msg/Mesh.msg",
-    "/home/teng/ros2_ws/src/ros2_common_interfaces/shape_msgs:msg/MeshTriangle.msg",
-    "/home/teng/ros2_ws/src/ros2_common_interfaces/shape_msgs:msg/Plane.msg",
-    "/home/teng/ros2_ws/src/ros2_common_interfaces/shape_msgs:msg/SolidPrimitive.msg"
-  ]
-}

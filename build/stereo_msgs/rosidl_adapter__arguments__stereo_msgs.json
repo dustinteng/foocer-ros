@@ -1,6 +1,0 @@
-{
-  "package_name": "stereo_msgs",
-  "non_idl_tuples": [
-    "/home/teng/ros2_ws/src/ros2_common_interfaces/stereo_msgs:msg/DisparityImage.msg"
-  ]
-}

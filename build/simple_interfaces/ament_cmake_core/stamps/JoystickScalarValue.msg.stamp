@@ -1,2 +1,0 @@
-string joystick_name
-float64 magnitude

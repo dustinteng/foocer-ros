@@ -1,1 +1,0 @@
-/home/teng/ros2_ws/build/exp_1_bringup/ament_cmake_environment_hooks/local_setup.sh

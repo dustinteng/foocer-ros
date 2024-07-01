@@ -1,1 +1,0 @@
-/home/teng/ros2_ws/src/ros2_common_interfaces/actionlib_msgs/msg/GoalStatusArray.msg
